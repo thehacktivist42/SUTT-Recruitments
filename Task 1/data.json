@@ -1,0 +1,837 @@
+{
+    "S1": {
+        "courseCode": "BIO F110",
+        "courseTitle": "BIOLOGY LABORATORY",
+        "credits": {
+            "L": "-",
+            "P": 2,
+            "U": 1
+        },
+        "sections": {
+            "P1": {
+                "instructors": [
+                    "Sayantani Chatterjee(RS)",
+                    "Ramakrishnan S(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Friday 13:00 - 15:00"
+            },
+            "P2": {
+                "instructors": [
+                    "Jitendra Panwar",
+                    "Valluri Harsha Prabha(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Friday 15:00 - 17:00"
+            },
+            "P3": {
+                "instructors": [
+                    "Lourdes Jennifer S(RS)",
+                    "B Vani"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Monday 8:00 - 10:00"
+            },
+            "P4": {
+                "instructors": [
+                    "Mukul Joshi",
+                    "Shiva Chaudhary(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Monday 13:00 - 15:00"
+            },
+            "P5": {
+                "instructors": [
+                    "Sandhya Amol Marathe",
+                    "Ritu Jangir(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Monday 15:00 - 17:00"
+            },
+            "P6": {
+                "instructors": [
+                    "Meghana Tare",
+                    "Hariharan J(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Tuesday 8:00 - 10:00"
+            },
+            "P7": {
+                "instructors": [
+                    "Anasuya Banerjee(RS)",
+                    "Shraddha Gupta(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Tuesday 13:00 - 15:00"
+            },
+            "P8": {
+                "instructors": [
+                    "RAJDEEP CHOWDHURY",
+                    "Chakraborty Srinjoy Srabani(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Tuesday 15:00 - 17:00"
+            },
+            "P9": {
+                "instructors": [
+                    "Gujarati Sukriti Nisha(RS)",
+                    "Shristy Shreya(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Thursday 13:00 - 15:00"
+            },
+            "P10": {
+                "instructors": [
+                    "Farhanur Rahman(RS)",
+                    "Shelly Chauhan(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Thursday 15:00 - 17:00"
+            },
+            "P11": {
+                "instructors": [
+                    "Balakumaran Chandrasekar",
+                    "Saurabh Singh(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Wednesday 8:00 - 10:00"
+            },
+            "P12": {
+                "instructors": [
+                    "Prabhat Nath Jha",
+                    "Priya Gupta(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Wednesday 13:00 - 15:00"
+            },
+            "P13": {
+                "instructors": [
+                    "Sushama Biswas(RS)"
+                ],
+                "room": "3219 (FD-III)",
+                "time": "Wednesday 15:00 - 17:00"
+            }
+        }
+    },
+    "S2": {
+        "courseCode": "BIO F111",
+        "courseTitle": "GENERAL BIOLOGY",
+        "credits": {
+            "L": 3,
+            "P": "-",
+            "U": 3
+        },
+        "sections": {
+            "L1": {
+                "instructors": [
+                    "SHIBASISH CHOWDHURY",
+                    "Syamantak Majumder",
+                    "Pankaj Kumar Sharma",
+                    "Vishal Saxena"
+                ],
+                "room": "5102 (LTC)",
+                "time": "Tuesday 9:00 - 10:00  Thursday 9:00 - 10:00  Friday 9:00 - 10:00"
+            },
+            "L2": {
+                "instructors": [
+                    "Syamantak Majumder",
+                    "Pankaj Kumar Sharma",
+                    "Vishal Saxena"
+                ],
+                "room": "5106 (LTC)",
+                "time": "Tuesday 11:00 - 12:00  Thursday 11:00 - 12:00  Friday 11:00 - 12:00"
+            },
+            "T1": {
+                "instructors": [
+                    "Shashi Prakash Singh"
+                ],
+                "room": "6157 (NAB)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T2": {
+                "instructors": [
+                    "Uma S Dubey"
+                ],
+                "room": "6158 (NAB)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T3": {
+                "instructors": [
+                    "Shashi Prakash Singh"
+                ],
+                "room": "6153 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T4": {
+                "instructors": [
+                    "Syamantak Majumder"
+                ],
+                "room": "6103 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T5": {
+                "instructors": [
+                    "Pankaj Kumar Sharma"
+                ],
+                "room": "6104 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T6": {
+                "instructors": [
+                    "Ashis Kumar Das"
+                ],
+                "room": "6154 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T7": {
+                "instructors": [
+                    "Soumitra Ghosh"
+                ],
+                "room": "6157 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T8": {
+                "instructors": [
+                    "P R Deepa"
+                ],
+                "room": "6153 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T9": {
+                "instructors": [
+                    "Uma S Dubey"
+                ],
+                "room": "6154 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T10": {
+                "instructors": [
+                    "Sudeshna Mukherjee"
+                ],
+                "room": "6157 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T11": {
+                "instructors": [
+                    "Soumitra Ghosh"
+                ],
+                "room": "6158 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T12": {
+                "instructors": [
+                    "Shibasish Chowdhury"
+                ],
+                "room": "6159 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T13": {
+                "instructors": [
+                    "Vishal Saxena"
+                ],
+                "room": "6103 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            }
+        }
+    },
+    "S3": {
+        "courseCode": "BITS F111",
+        "courseTitle": "THERMODYNAMICS",
+        "credits": {
+            "L": 3,
+            "P": "-",
+            "U": 3
+        },
+        "sections": {
+            "L1": {
+                "instructors": [
+                    "Manoj Kumar Soni"
+                ],
+                "room": "5102 (LTC)",
+                "time": "Monday 10:00 - 11:00  Wednesday 10:00 - 11:00  Thursday 16:00 - 17:00"
+            },
+            "L2": {
+                "instructors": [
+                    "SACHIN ULHASRAO BELGAMWAR"
+                ],
+                "room": "5102 (LTC)",
+                "time": "Tuesday 10:00 - 11:00  Thursday 10:00 - 11:00  Friday 10:00 - 11:00"
+            },
+            "L3": {
+                "instructors": [
+                    "Amit Jain"
+                ],
+                "room": "5102 (LTC)",
+                "time": "Tuesday 13:00 - 14:00  Thursday 13:00 - 14:00  Friday 13:00 - 14:00"
+            },
+            "T1": {
+                "instructors": [
+                    "Pradipta Chattopadhyay"
+                ],
+                "room": "1202 (FD-I)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T2": {
+                "instructors": [
+                    "Naveen P. T.(RS)"
+                ],
+                "room": "6107 (NAB)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T3": {
+                "instructors": [
+                    "Amit Jain"
+                ],
+                "room": "1226 (FD-I)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T4": {
+                "instructors": [
+                    "Biswadip Shome"
+                ],
+                "room": "1223 (FD-I)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T5": {
+                "instructors": [
+                    "Bhanu Vardhan Reddy Kuncharam"
+                ],
+                "room": "6159 (NAB)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T6": {
+                "instructors": [
+                    "Priya Christina Sande"
+                ],
+                "room": "1201 (FD-I)",
+                "time": "Friday 8:00 - 9:00"
+            },
+            "T7": {
+                "instructors": [
+                    "Manoj Kumar Soni"
+                ],
+                "room": "6102 (NAB)",
+                "time": "Monday 8:00 - 9:00"
+            },
+            "T8": {
+                "instructors": [
+                    "Indresh Kumar"
+                ],
+                "room": "6153 (NAB)",
+                "time": "Monday 8:00 - 9:00"
+            },
+            "T9": {
+                "instructors": [
+                    "Nancy Maurya(RS)"
+                ],
+                "room": "1226 (FD-I)",
+                "time": "Monday 8:00 - 9:00"
+            },
+            "T10": {
+                "instructors": [
+                    "Pritam Kumar Jana"
+                ],
+                "room": "6154 (NAB)",
+                "time": "Monday 8:00 - 9:00"
+            },
+            "T11": {
+                "instructors": [
+                    "Faizan Mohammad Rashid"
+                ],
+                "room": "2207 (FD-II)",
+                "time": "Monday 8:00 - 9:00"
+            },
+            "T12": {
+                "instructors": [
+                    "Priya Christina Sande"
+                ],
+                "room": "1205 (FD-I)",
+                "time": "Monday 8:00 - 9:00"
+            },
+            "T13": {
+                "instructors": [
+                    "Sachin Ulhasrao Belgamwar"
+                ],
+                "room": "1232 (FD-I)",
+                "time": "Tuesday 15:00 - 16:00"
+            },
+            "T14": {
+                "instructors": [
+                    "Indresh Kumar"
+                ],
+                "room": "6153 (NAB)",
+                "time": "Tuesday 15:00 - 16:00"
+            },
+            "T15": {
+                "instructors": [
+                    "Sajal Mukherjee"
+                ],
+                "room": "1203 (FD-I)",
+                "time": "Tuesday 15:00 - 16:00"
+            },
+            "T16": {
+                "instructors": [
+                    "Pritam Kumar Jana"
+                ],
+                "room": "1205 (FD-I)",
+                "time": "Tuesday 15:00 - 16:00"
+            },
+            "T17": {
+                "instructors": [
+                    "Arpan Das"
+                ],
+                "room": "6154 (NAB)",
+                "time": "Tuesday 15:00 - 16:00"
+            },
+            "T18": {
+                "instructors": [
+                    "Tanmoy Mondal"
+                ],
+                "room": "6157 (NAB)",
+                "time": "Tuesday 15:00 - 16:00"
+            },
+            "T19": {
+                "instructors": [
+                    "Etika Krishna Chaitanya"
+                ],
+                "room": "1231 (FD-I)",
+                "time": "Thursday 8:00 - 9:00"
+            },
+            "T20": {
+                "instructors": [
+                    "Amit Jain"
+                ],
+                "room": "6157 (NAB)",
+                "time": "Thursday 8:00 - 9:00"
+            },
+            "T21": {
+                "instructors": [
+                    "Faizan Mohammad Rashid"
+                ],
+                "room": "1203 (FD-I)",
+                "time": "Thursday 8:00 - 9:00"
+            },
+            "T22": {
+                "instructors": [
+                    "Shyam Sunder Yadav"
+                ],
+                "room": "1226 (FD-I)",
+                "time": "Thursday 8:00 - 9:00"
+            },
+            "T23": {
+                "instructors": [
+                    "Biswadip Shome"
+                ],
+                "room": "1227 (FD-I)",
+                "time": "Thursday 8:00 - 9:00"
+            }
+        }
+    },
+    "S4": {
+        "courseCode": "BITS F112",
+        "courseTitle": "TECHNICAL REPORT WRITING",
+        "credits": {
+            "L": 2,
+            "P": "-",
+            "U": 2
+        },
+        "sections": {
+            "L1": {
+                "instructors": [
+                    "Sanjiv Kumar Choudhary"
+                ],
+                "room": "5102 (LTC)",
+                "time": "Monday 16:00 - 17:00  Wednesday 16:00 - 17:00"
+            },
+            "L2": {
+                "instructors": [
+                    "Paul Mathew"
+                ],
+                "room": "6152 (NAB)",
+                "time": "Monday 13:00 - 14:00  Wednesday 13:00 - 14:00"
+            },
+            "L3": {
+                "instructors": [
+                    "SUSHILA SHEKHAWAT",
+                    "Ruchika Sharma(RS)",
+                    "Kirti Singh(RS)",
+                    "Pooja Chatterjee(RS)",
+                    "Vibha(RS)",
+                    "Asita A.(RS)",
+                    "Swati(RS)",
+                    "Sonika(RS)",
+                    "Kadam Onkar Rajendra(RS)",
+                    "Manasi Panwar(RS)",
+                    "Pradeep Bailwal(RS)",
+                    "Pranjal Aarav(RS)"
+                ],
+                "room": "6151 (NAB)",
+                "time": "Monday 14:00 - 15:00  Wednesday 14:00 - 15:00"
+            },
+            "L4": {
+                "instructors": [
+                    "Sangeeta Sharma"
+                ],
+                "room": "6151 (NAB)",
+                "time": "Monday 15:00 - 16:00  Wednesday 15:00 - 16:00"
+            },
+            "L5": {
+                "instructors": [
+                    "Virendra Singh Nirban"
+                ],
+                "room": "6151 (NAB)",
+                "time": "Tuesday 14:00 - 15:00  Thursday 14:00 - 15:00"
+            },
+            "L6": {
+                "instructors": [
+                    "Prateek"
+                ],
+                "room": "6152 (NAB)",
+                "time": "Tuesday 15:00 - 16:00  Thursday 15:00 - 16:00"
+            }
+        }
+    },
+    "S5": {
+        "courseCode": "CHEM F110",
+        "courseTitle": "CHEMISTRY LABORATORY",
+        "credits": {
+            "L": "-",
+            "P": 2,
+            "U": 1
+        },
+        "sections": {
+            "P1": {
+                "instructors": [
+                    "Paritosh Shukla",
+                    "Susmita Pradhan(RS)",
+                    "Mainika Verma(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Friday 8:00 - 10:00"
+            },
+            "P2": {
+                "instructors": [
+                    "PRASHANT UDAY MANOHAR",
+                    "Shubhangi Sharma(RS)",
+                    "Pinki(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Friday 10:00 - 12:00"
+            },
+            "P3": {
+                "instructors": [
+                    "Annu(RS)",
+                    "Ritu Rani(RS)",
+                    "Nitika(RS)",
+                    "Nancy(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Friday 13:00 - 15:00"
+            },
+            "P4": {
+                "instructors": [
+                    "Ajay Kumar Sah",
+                    "Sakshi Bajaj(RS)",
+                    "Khushika(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Friday 15:00 - 17:00"
+            },
+            "P5": {
+                "instructors": [
+                    "Paritosh Shukla",
+                    "Ritu Kumari(RS)",
+                    "Arpit(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Monday 8:00 - 10:00"
+            },
+            "P6": {
+                "instructors": [
+                    "Prekshi Gupta(RS)",
+                    "Bharti Khungar",
+                    "Nitika(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Monday 10:00 - 12:00"
+            },
+            "P7": {
+                "instructors": [
+                    "Reena Jangir(RS)",
+                    "Satyajit Patra",
+                    "Pragati Shrivastava(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Monday 13:00 - 15:00"
+            },
+            "P8": {
+                "instructors": [
+                    "Madhushree Sarkar",
+                    "Priyanka Bhardwaj(RS)",
+                    "Ritu Kumari(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Monday 15:00 - 17:00"
+            },
+            "P9": {
+                "instructors": [
+                    "Nidhi(RS)",
+                    "Prashant Choubey(RS)",
+                    "Tank Disha Harsukhbhai(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Saturday 8:00 - 10:00"
+            },
+            "P10": {
+                "instructors": [
+                    "Reena Jangir(RS)",
+                    "Khushika(RS)",
+                    "Pinki(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Saturday 10:00 - 12:00"
+            },
+            "P11": {
+                "instructors": [
+                    "Gadekar Amol Bhagwanrao(RS)",
+                    "Shruti Soni(RS)",
+                    "Vani Dhyani(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Saturday 13:00 - 15:00"
+            },
+            "P12": {
+                "instructors": [
+                    "Heena(RS)",
+                    "Anakshi Boruah(RS)",
+                    "Tarun Jangir(RS)",
+                    "Samya Suvra Datta(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Saturday 15:00 - 17:00"
+            },
+            "P13": {
+                "instructors": [
+                    "Satyajit Patra",
+                    "Tank Disha Harsukhbhai(RS)",
+                    "Susmita Pradhan(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Tuesday 8:00 - 10:00"
+            },
+            "P14": {
+                "instructors": [
+                    "Astha Gupta(RS)",
+                    "Ram Kinkar Roy",
+                    "Shruti Soni(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Tuesday 10:00 - 12:00"
+            },
+            "P15": {
+                "instructors": [
+                    "Prashant Uday Manohar",
+                    "Borade Somnath Arjun(RS)",
+                    "Meenu(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Tuesday 13:00 - 15:00"
+            },
+            "P16": {
+                "instructors": [
+                    "Madhushree Sarkar",
+                    "Priyanka Bhardwaj(RS)",
+                    "Arun Patel(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Tuesday 15:00 - 17:00"
+            },
+            "P17": {
+                "instructors": [
+                    "Prekshi Gupta(RS)",
+                    "Shubhangi Sharma(RS)",
+                    "Tarun Jangir(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Thursday 8:00 - 10:00"
+            },
+            "P18": {
+                "instructors": [
+                    "Amrita Chakraborty",
+                    "Ritu Rani(RS)",
+                    "Nidhi(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Thursday 10:00 - 12:00"
+            },
+            "P19": {
+                "instructors": [
+                    "Ram Kinkar Roy",
+                    "Meenu(RS)",
+                    "Anakshi Boruah(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Thursday 13:00 - 15:00"
+            },
+            "P20": {
+                "instructors": [
+                    "Gadekar Amol Bhagwanrao(RS)",
+                    "Ajay Kumar Sah",
+                    "Sakshi Bajaj(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Thursday 15:00 - 17:00"
+            },
+            "P21": {
+                "instructors": [
+                    "Surojit Pande",
+                    "Nidhi(RS)",
+                    "Prashant Choubey(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Wednesday 8:00 - 10:00"
+            },
+            "P22": {
+                "instructors": [
+                    "Bibhas Ranjan Sarkar",
+                    "Arun Patel(RS)",
+                    "Sakshi Kushwaha(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Wednesday 10:00 - 12:00"
+            },
+            "P23": {
+                "instructors": [
+                    "Astha Gupta(RS)",
+                    "Borade Somnath Arjun(RS)",
+                    "Arpit(RS)",
+                    "Antima Saini(RS)"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Wednesday 13:00 - 15:00"
+            },
+            "P24": {
+                "instructors": [
+                    "Heena(RS)",
+                    "Annu(RS)",
+                    "Surojit Pande"
+                ],
+                "room": "3115 (FD-III)",
+                "time": "Wednesday 15:00 - 17:00"
+            }
+        }
+    },
+    "S6": {
+        "courseCode": "CHEM F111",
+        "courseTitle": "GENERAL CHEMISTRY",
+        "credits": {
+            "L": 3,
+            "P": "-",
+            "U": 3
+        },
+        "sections": {
+            "L1": {
+                "instructors": [
+                    "PARTHA SARATHI ADDY",
+                    "Madhushree Sarkar",
+                    "Rajeev Sakhuja"
+                ],
+                "room": "5105 (LTC)",
+                "time": "Tuesday 9:00 - 10:00  Thursday 9:00 - 10:00  Friday 9:00 - 10:00"
+            },
+            "L2": {
+                "instructors": [
+                    "Partha Sarathi Addy",
+                    "Madhushree Sarkar",
+                    "Rajeev Sakhuja"
+                ],
+                "room": "5105 (LTC)",
+                "time": "Tuesday 11:00 - 12:00  Thursday 11:00 - 12:00  Friday 11:00 - 12:00"
+            },
+            "T1": {
+                "instructors": [
+                    "Paritosh Shukla"
+                ],
+                "room": "2204 (FD-II)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T2": {
+                "instructors": [
+                    "Shamik Chakraborty"
+                ],
+                "room": "6107 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T3": {
+                "instructors": [
+                    "Partha Sarathi Addy"
+                ],
+                "room": "6109 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T4": {
+                "instructors": [
+                    "Ram Kinkar Roy"
+                ],
+                "room": "6160 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T5": {
+                "instructors": [
+                    "Saumi Ray"
+                ],
+                "room": "6161 (NAB)",
+                "time": "Tuesday 14:00 - 15:00"
+            },
+            "T6": {
+                "instructors": [
+                    "Prashant Uday Manohar"
+                ],
+                "room": "6153 (NAB)",
+                "time": "Thursday 14:00 - 15:00"
+            },
+            "T7": {
+                "instructors": [
+                    "Paritosh Shukla"
+                ],
+                "room": "2204 (FD-II)",
+                "time": "Thursday 14:00 - 15:00"
+            },
+            "T8": {
+                "instructors": [
+                    "Madhushree Sarkar"
+                ],
+                "room": "6152 (NAB)",
+                "time": "Thursday 14:00 - 15:00"
+            },
+            "T9": {
+                "instructors": [
+                    "Inamur Rahaman Laskar"
+                ],
+                "room": "6163 (NAB)",
+                "time": "Thursday 14:00 - 15:00"
+            },
+            "T10": {
+                "instructors": [
+                    "Ram Kinkar Roy"
+                ],
+                "room": "6160 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T11": {
+                "instructors": [
+                    "Saumi Ray"
+                ],
+                "room": "6161 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            },
+            "T12": {
+                "instructors": [
+                    "Inamur Rahaman Laskar"
+                ],
+                "room": "6105 (NAB)",
+                "time": "Wednesday 8:00 - 9:00"
+            }
+        }
+    }
+}
